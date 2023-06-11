@@ -14,4 +14,4 @@ I am an undergraduate Computer science at Cornell University. C, C++, Python, an
 - 📫 Reach out to me at: <a href="tpp38@cornell.edu">tpp38@cornell.edu</a>
 
 <h2>👀 My github Stats</h2>
-![Thuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuypham03&show_icons=true&theme=radical)
+[![Thuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuypham03&show_icons=true&theme=radical)]()
