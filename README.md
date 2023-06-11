@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋, Thuy Pham here. 
 
-<!--
-**thuypham03/thuypham03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate Computer science at Cornell University. C, C++, Python, and Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+
+* **I am interested in Web/App Development, Entrepreneur, and Education**
+- 🌱 I’m currently learning to develop start-up projects.
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore good food.
+- 📫 Reach out to me at: <a href="tpp38@cornell.edu">tpp38@cornell.edu</a>
