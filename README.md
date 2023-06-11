@@ -12,3 +12,6 @@ I am an undergraduate Computer science at Cornell University. C, C++, Python, an
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore good food.
 - 📫 Reach out to me at: <a href="tpp38@cornell.edu">tpp38@cornell.edu</a>
+
+<h2>👀 My github Stats</h2>
+[![Thuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuypham03)](https://github.com/anuraghazra/github-readme-stats)
