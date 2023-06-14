@@ -12,3 +12,4 @@ I am an undergraduate Computer science at Cornell University. C, C++, Python, an
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore good food.
 - 📫 Reach out to me at: <a href="tpp38@cornell.edu">tpp38@cornell.edu</a>
+- My LinkedIn: <a href="https://www.linkedin.com/in/thuypham03/">@thuypham03</a>
